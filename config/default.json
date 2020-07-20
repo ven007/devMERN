@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ven123:ven123@devconnector.p3l0q.mongodb.net/test?retryWrites=true&w=majority",
+  "jwSecret": "mylittlescret"
+}
